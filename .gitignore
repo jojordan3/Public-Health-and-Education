@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 .DS_Store
-2018(Archive)/NYCDataSources/*
+*/Medium/*
 */NYCDataSources/*
 */raw_csvs/*
 # Files
