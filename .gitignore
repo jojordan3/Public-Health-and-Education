@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+2018(Archive)/NYCDataSources/*
+*/NYCDataSources/*
+*/raw_csvs/*
 # Files
 .vscode/
 dadjokes-subreddit-archive/dadjokes.csv
