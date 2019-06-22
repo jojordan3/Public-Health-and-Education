@@ -1,24 +1,6 @@
 import os, sys, subprocess
 
-# Also used sas7bdat_to_csv *.sas7bdat
-
-#and openpyxl
-#import csv
-#import openpyxl
-#from openpyxl import load_workbook
-# for file, prefix in excelfiles.items():
-#     wb = load_workbook(file)
-#     sheets = wb.get_sheet_names()
-#     for sheet in sheets[1:]:
-#         df = wb[sheet]
-#         with open(f'{prefix}{sheet}.csv', 'w', newline='') as csvfile:
-#             c = csv.writer(csvfile)
-#             data =[]
-#             for row in df.rows:
-#                 data.append([cell.value for cell in row])
-#             c.writerows(data)
-
-# for data conversion
+# Also used sas7bdat_to_csv *.sas7bdat for data conversion
 
 # Get database name from arguments passed to the script
 # Alternative you could set explicitly e.g. `DATABASE = 'my-access-db.mdb'`
