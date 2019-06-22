@@ -9,6 +9,7 @@ __pycache__/
 */Medium/*
 */NYCDataSources/*
 */raw_csvs/*
+*/NYCDataSourcesRound2/*
 # Files
 .vscode/
 dadjokes-subreddit-archive/dadjokes.csv
